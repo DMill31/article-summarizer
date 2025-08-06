@@ -3,6 +3,8 @@
 Complete the tasks in the Python Notebook in this repository.
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
 
+This repository is for the final project of Web Scraping and NLP, it is a culmination of what has been learned throughout class.  An article from the web will be found and through its html code, sentiment analysis and nlp will be performed.  A discussion of findings can be found at the end of the notebook.
+
 ## How to Install and Run the Project
 
 First you must clone the project to your local machine.
